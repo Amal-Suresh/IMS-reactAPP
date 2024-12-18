@@ -1,4 +1,4 @@
-.grid-backgound {
+.grid-background {  /* Fixed the typo */
   position: fixed;
   top: 0;
   left: 0;
@@ -15,7 +15,7 @@
   z-index: -1;
 }
 
-.grid-backgound::before {
+.grid-background::before {  /* Fixed the typo */
   content: "";
   position: absolute;
   top: 0;
